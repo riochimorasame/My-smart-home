@@ -1,0 +1,116 @@
+*{
+    margin: 0% ;
+    padding: 0% ;
+
+}
+h1{
+    
+    color:#fff;
+}
+.t1{
+  font-size: 50px;
+  float: left;
+  margin-top: 15px;
+  margin-left: 5px;
+  border-radius: 100%;
+  background-color: rgb(88, 88, 88);
+    
+}
+ul{
+  float: right;  
+  list-style: none;
+  margin: top 10px;
+
+}
+li{
+    float: left;
+    padding:10px ;
+    font-size: 20px;
+    color: #fff;
+}
+nav{
+  background-color:  blue;  
+  height: 70px ;
+}
+a{
+    text-decoration: none;
+    color:aqua;
+}
+.content{
+    height: 400px;
+    background-image: url(image/ouitie\ simple.jfif);
+  
+}
+.t2{
+  font: size 50px; 
+  color: black;
+  margin:20px ;
+}
+.p1{
+   color: black;
+   font-size: 19px;
+   margin: 15px;
+}
+.btn1{
+ background-color: red;
+ border-radius: 100%;
+ color: #fff;  
+ padding: 10px;
+ margin: left 300px;  
+}
+.t3{
+color:blue;
+text-align:center ;
+}
+.histoire{
+width:70%  ;  
+float: left;  
+}
+.image{
+   width: 30% ;
+   float: left;
+}
+#img3{
+height: 450px;
+width: 300px ;
+padding: 10px;
+
+
+}
+.btn2{
+   background-color: red;
+   border-radius: 100%;
+   color: #fff;  
+   padding: 10px;
+   margin: left 350px;
+   
+ }
+ .t4{
+   color:blue;
+   text-align:center ;
+   float: right;
+   }
+   .d{
+     float: left ;  
+     width: 31% ;
+     text-align: center;
+     padding: 10px; ;
+     background-color: rgb(165, 162, 162);
+   }
+
+  .d:hover{
+   background-color:#fff ;
+  }
+   h3{
+     margin-bottom: 10px; 
+     font-size: 25px; 
+     float: right;
+   }
+   .t5{
+       color:blue;
+       text-align:center ;
+       float: right;
+       float: right;
+       }
+
+       /*lien de la video*/
